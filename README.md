@@ -50,3 +50,9 @@ Backend:
 - View the word count result displayed below the button.
 
 ### Screenshots
+![Image](https://github.com/user-attachments/assets/c738a9b9-873f-4fb2-92f0-cc0882763e62)
+
+### Contact
+- Name: Shreya. S
+- Email: shreyasuresh3107@gmail.com
+- linkdn: www.linkedin.com/in/shreya-suresh-620922256
